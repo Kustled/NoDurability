@@ -1,0 +1,8 @@
+name: NoDurability
+version: '${project.version}'
+main: me.kustled.nodurability.Nodurability
+api-version: 1.19
+prefix: started
+load: STARTUP
+authors: [ kustled ]
+description: Removes the entire durability mechanic.
